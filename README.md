@@ -2,7 +2,7 @@
 
 - 👀 Intrest in SQL and Front-end.
 - 💜 Hobbies: Games and Tattoos.
-- 🌱 Learning HTML/CSS, SQL and Javascript.
+- 🌱 Learning HTML/CSS, SQL, Python and Javascript.
 - 📫 Contact me by any media provided in my profile.
 
 ##
